@@ -36,7 +36,7 @@ string myName = "Nick"
 </div>
 
 
-// Array methods
+// Array methods -> LOOPS
 <!-- Create favoriteFoods below -->
 @{
 List<string> favoriteFoods = new List<string>()

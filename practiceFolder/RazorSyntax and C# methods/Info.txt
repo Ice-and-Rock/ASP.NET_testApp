@@ -1,0 +1,17 @@
+RAZOR PAGES SYNTAX I
+
+Review
+Great job! We learned a lot in this lesson. We were able to re-create certain HTML markup using Razor syntax and saw how Razor Pages can be useful by reducing repetitive code.
+
+Let’s summarize what we’ve learned so far:
+
+Razor is a markup syntax for embedding server-based code into webpages. It consists of Razor markup, C#, and HTML. Files containing Razor generally have a .cshtml file extension.
+In order to use the Razor Pages project type in ASP.NET, each Razor page (file ending in .cshtml) must start with the @page directive.
+In ASP.NET Razor syntax, C# code is denoted with an “at” symbol: @.
+If the code is a single expression, no spaces, no additional syntax is needed. The expression immediately follows the @.
+If the code is a single line with spaces, it should be surrounded by parentheses, ( ). -If the code is multiple lines or contains a mix of C# and HTML, it should be surrounded by curly braces, { }
+In ASP.NET Razor syntax, an if control structure is written with a code block, where the first line contains @if and a set of conditions. Any following else-if and else conditions do not need @ symbols.
+In ASP.NET Razor syntax, a @for control structure is written with a code block, where the first line contains @for and a set of conditions.
+In ASP.NET Razor syntax, a @foreach control structure is written with a code block, where the first line contains @foreach and a set of conditions.
+In ASP.NET Razor syntax, a @while control structure is written with a code block, where the first line contains @while and a condition.
+In the following lesson, we’ll explore the page model and its relation to the view files we’ve been using throughout this lesson.
