@@ -1,0 +1,15 @@
+@page
+@model MyApp.Namespace.LoginModel
+@{
+}
+
+@* Below is a <partial> tag used to import a reusable form from another file *@
+
+<div class="jumbotron">
+  <h1 class="display-4">Log in!</h1>
+  <p class="lead">Welcome back!</p>
+  <hr class="my-4">
+  <p>Provide your information below to log in</p>
+	<!-- Form partial -->
+<partial name="_Form"/>
+</div>
