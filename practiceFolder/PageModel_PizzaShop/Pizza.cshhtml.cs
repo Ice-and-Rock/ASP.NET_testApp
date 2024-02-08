@@ -27,7 +27,7 @@ namespace starting_app.Pages
     public bool ExtraCheese {get; set;}
 
     public void OnGet()
-    // declare these on render to be the initial state
+    // OnGEt() - declares these on render to be the initial state
     {
     Customer = "nick";
     Order = "Cheese";
