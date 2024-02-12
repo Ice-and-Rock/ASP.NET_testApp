@@ -28,3 +28,4 @@
 /Users/nicholasvalente/Documents/Cade_Academy/ASP.NET/TestApp/obj/Debug/net8.0/TestApp.pdb
 /Users/nicholasvalente/Documents/Cade_Academy/ASP.NET/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
 /Users/nicholasvalente/Documents/Cade_Academy/ASP.NET/TestApp/obj/Debug/net8.0/ref/TestApp.dll
+/Users/nicholasvalente/Documents/Cade_Academy/ASP.NET/TestApp/obj/Debug/net8.0/TestApp.sourcelink.json
