@@ -1,6 +1,7 @@
 # REDIRECTION
 
 ### Review
+
 You’re on your way to becoming an ASP.NET master! In this lesson we learned some methods and types that are used to redirect users to pages:
 
 When a handler method has no return statement, it will send the associated page as a response.
